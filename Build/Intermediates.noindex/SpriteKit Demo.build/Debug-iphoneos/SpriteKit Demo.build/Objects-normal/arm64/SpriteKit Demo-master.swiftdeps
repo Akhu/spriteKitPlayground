@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "9f3a99cd1a5b23078cfd4719b2ffcd4a"
+build_time: [1523988398, 360924000]
+inputs:
+  "/Users/Anthony 1/Documents/Code/iOS/SpriteKit Demo/SpriteKit Demo/SpriteKitButton.swift": [1520698225, 0]
+  "/Users/Anthony 1/Documents/Code/iOS/SpriteKit Demo/SpriteKit Demo/GameScenePhysics.swift": [1520666121, 0]
+  "/Users/Anthony 1/Documents/Code/iOS/SpriteKit Demo/SpriteKit Demo/GameScene.swift": [1520666693, 0]
+  "/Users/Anthony 1/Documents/Code/iOS/SpriteKit Demo/SpriteKit Demo/GameViewController.swift": [1520667195, 0]
+  "/Users/Anthony 1/Documents/Code/iOS/SpriteKit Demo/SpriteKit Demo/AppDelegate.swift": [1520490711, 0]
